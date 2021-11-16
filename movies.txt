@@ -1,0 +1,42 @@
+1,Spiderman,Action
+2,ShangChi,Action
+3,Venom,Action
+4,BlackWidow,Action
+5,Addams Family,Comedy
+6,Coco,Comedy
+7,Cruella,Crime
+8,AVA,Crime
+9,Girl in the Basement,Crime
+10,John Wick,Crime
+11,The Girl Who Killed Her Parents,Crime
+12,Now You See Me,Crime
+13,Sherlock Holmes,Crime
+14,The Boss Baby,Family
+15,Soul,Family
+16,Vivo,Family
+17,Peter Rabbit,Family
+18,Fatherhood,Family
+19,Frozen,Family
+20,Toy Story,Family
+21,SpongeBob,Family
+22,Lion King,Family
+23,Avatar,Fantasy
+24,Harry Potter,Fantasy
+25,Twilight,Fantasy
+26,Percy Jackson,Fantasy
+27,Maleficent,Fantasy
+28,Conjuring,Horror
+29,Sinister,Horror
+30,Demonic,Horror
+31,The Unholy,Horror
+32,The Purge,Thriller
+33,Jaws,Thriller
+34,IT,Horror
+35,Chucky,Horror
+36,After,Romance
+37,He's all that,Romance
+38,Long story short,Romance
+39,The Kissing Booth,Romance
+40,Me Before You,Romance
+41,No Time To Die,Thriller
+42,Maze Runner,Thriller
